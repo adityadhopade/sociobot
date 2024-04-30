@@ -652,13 +652,13 @@ createdAt: {
 - A secret key will be generated like this
 
 ```
-sk-proj-GbdDF5ewqk1Tomihv62iT3BlbkFJjJZLbeP4DakQcEVHHQE7
+sk-proj-******
 ```
 
 - Add it into the `env file` for further use
 
 ```
-OPEN_AI_KEY=sk-proj-GbdDF5ewqk1Tomihv62iT3BlbkFJjJZLbeP4DakQcEVHHQE7
+OPEN_AI_KEY=sk-proj-******
 ```
 
 - In OPEN AI We need to buy credits to use the OPENAI API; for this we will require the credit cards
